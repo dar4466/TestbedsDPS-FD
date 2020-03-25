@@ -1,5 +1,5 @@
 #!/bin/bash
-source /mnt/configs/config.sh
+source /mnt/DeFog/DeFog/configs/config.sh
 
 #########################################################################################################################
 # CSC4006 - Research And Development Project
